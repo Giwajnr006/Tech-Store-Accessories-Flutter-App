@@ -1,2 +1,16 @@
-# Tech-Store-Accessories-Flutter-App
-Welcome to Gigs Store, a sleek and modern introductory Flutter UI for a tech and branding product store. This simple yet visually rich landing page is designed for a clean user experience with professional color tones and responsive layout.
+# ecommerce
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
